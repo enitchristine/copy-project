@@ -22,7 +22,18 @@ body > *{
     margin-right: 20px;
 }
 
-.images{
+.sec-2{
+    
+}
+
+.cards{
     display: flex;
     flex-direction: row;
+    gap: 20px;
+    flex-shrink:1 ;
+}
+
+.images{
+    width:  250px;
+    height: 250px;
 }
