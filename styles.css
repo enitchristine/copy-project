@@ -61,8 +61,15 @@ p{
     align-items: center;
 }
 
+.sec-2 h2{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+
+}
+
 .sec-2>p{
-    font:36px;
+    font-size:18px;
     font-weight: bolder;
     color: #1f2937;
 }
