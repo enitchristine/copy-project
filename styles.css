@@ -46,10 +46,12 @@ p{
 
 .sec-1 h1{
     font-size:48px;
+    justify-content: flex-start;
 }
 
 .sec-1 p{
     font-size:18px;
+    justify-content: flex-start;
 }
 
 .sec-2{
